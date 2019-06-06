@@ -199,7 +199,6 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Areas\RecursosHumanos\Controllers\PersonalController.cs" />
     <Compile Include="Areas\RecursosHumanos\RecursosHumanosAreaRegistration.cs" />
-    <Compile Include="Areas\RRHH\Controllers\EmpleadoesController.cs" />
     <Compile Include="Areas\RRHH\Models\Empleado.cs" />
     <Compile Include="Areas\RRHH\Models\EmpleadoDato.cs" />
     <Compile Include="Areas\RRHH\RRHHAreaRegistration.cs" />
@@ -240,11 +239,6 @@
     <Content Include="Areas\RRHH\Views\web.config" />
     <Content Include="Areas\RRHH\Views\_ViewStart.cshtml" />
     <Content Include="Areas\RRHH\Views\Shared\_Layout.cshtml" />
-    <Content Include="Areas\RRHH\Views\Empleadoes\Create.cshtml" />
-    <Content Include="Areas\RRHH\Views\Empleadoes\Delete.cshtml" />
-    <Content Include="Areas\RRHH\Views\Empleadoes\Details.cshtml" />
-    <Content Include="Areas\RRHH\Views\Empleadoes\Edit.cshtml" />
-    <Content Include="Areas\RRHH\Views\Empleadoes\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -299,6 +293,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\RecursosHumanos\Models\" />
+    <Folder Include="Areas\RRHH\Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

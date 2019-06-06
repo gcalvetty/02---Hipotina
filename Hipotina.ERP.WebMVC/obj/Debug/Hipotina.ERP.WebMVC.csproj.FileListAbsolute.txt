@@ -243,12 +243,12 @@ E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.O
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.dll
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.pdb
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\ApplicationInsights.config
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\csc.exe
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\System.Collections.Immutable.dll
@@ -322,6 +322,5 @@ E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.O
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Google.xml
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Twitter.xml
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.dll
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.pdb
