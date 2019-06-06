@@ -1,0 +1,327 @@
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\ApplicationInsights.config
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\csc.exe
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\System.Collections.Immutable.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\System.Reflection.Metadata.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\vbc.exe
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\VBCSCompiler.exe
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\roslyn\VBCSCompiler.exe.config
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Hipotina.ERP.WebMVC.dll.config
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Hipotina.ERP.WebMVC.pdb
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Antlr3.Runtime.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\EntityFramework.SqlServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.Agent.Intercept.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.DependencyCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.Web.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.WindowsServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.ApplicationInsights.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AspNet.Identity.Core.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Cookies.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Facebook.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Google.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.OAuth.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Twitter.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Web.Infrastructure.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Newtonsoft.Json.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Helpers.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Mvc.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Optimization.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.WebPages.Deployment.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.WebPages.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.WebPages.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\WebGrease.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\EntityFramework.SqlServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.DependencyCollector.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.Web.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AI.WindowsServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.ApplicationInsights.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Helpers.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Mvc.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Optimization.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.WebPages.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.WebPages.Deployment.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\System.Web.WebPages.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Antlr3.Runtime.pdb
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Newtonsoft.Json.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AspNet.Identity.Core.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Facebook.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Cookies.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.OAuth.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Google.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.Twitter.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\obj\Debug\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina-GECN\obj\Debug\Hipotina.ERP.WebMVC.pdb
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\csc.exe
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\vbc.exe
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\VBCSCompiler.exe
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\ApplicationInsights.config
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.dll.config
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.pdb
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Antlr3.Runtime.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\EntityFramework.SqlServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Web.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.WindowsServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.ApplicationInsights.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Newtonsoft.Json.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Helpers.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Mvc.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Optimization.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Deployment.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\WebGrease.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\EntityFramework.SqlServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Web.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AI.WindowsServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.ApplicationInsights.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Helpers.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Mvc.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Optimization.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Deployment.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Antlr3.Runtime.pdb
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Newtonsoft.Json.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\Hipotina-gecn2\Hipotina-GECN\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.pdb
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\ApplicationInsights.config
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\csc.exe
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\vbc.exe
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\VBCSCompiler.exe
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.dll.config
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.pdb
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Antlr3.Runtime.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\EntityFramework.SqlServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Web.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.WindowsServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.ApplicationInsights.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Newtonsoft.Json.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Helpers.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Mvc.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Optimization.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Deployment.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\WebGrease.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\EntityFramework.SqlServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Web.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AI.WindowsServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.ApplicationInsights.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Helpers.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Mvc.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Optimization.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Deployment.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Antlr3.Runtime.pdb
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Newtonsoft.Json.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.pdb
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\ApplicationInsights.config
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\csc.exe
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\vbc.exe
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\VBCSCompiler.exe
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.dll.config
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Hipotina.ERP.WebMVC.pdb
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Antlr3.Runtime.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\EntityFramework.SqlServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Web.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.WindowsServer.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.ApplicationInsights.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Newtonsoft.Json.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Owin.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Helpers.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Mvc.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Optimization.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Deployment.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Razor.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\WebGrease.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\EntityFramework.SqlServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.Web.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AI.WindowsServer.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.ApplicationInsights.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Helpers.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Mvc.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Optimization.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Deployment.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\System.Web.WebPages.Razor.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Antlr3.Runtime.pdb
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Newtonsoft.Json.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.dll
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.pdb
