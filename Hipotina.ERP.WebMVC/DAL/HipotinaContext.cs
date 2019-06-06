@@ -13,9 +13,10 @@ namespace Hipotina.ERP.WebMVC.DAL
             public DbSet<Personal> Personales { get; set; }
             public DbSet<PersonalDatos> PersonalDatoses { get; set; }
 
+            /* --- Tablas de la Area: RRHHH --- */
             public DbSet<Empleado> Empleados { get; set; }
             public DbSet<EmpleadoDato> EmpleadoDatos { get; set; }
-            
+            /* -------------------------------- */       
      
            protected override void OnModelCreating(DbModelBuilder modelBuilder)
                 {
