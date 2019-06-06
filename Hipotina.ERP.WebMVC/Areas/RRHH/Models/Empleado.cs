@@ -12,7 +12,7 @@ namespace Hipotina.ERP.WebMVC.Areas.RRHH.Models
     {
         [Key]
         public int Emp_ID { get; set; }
-        [DataType(DataType.Custom)]
+        
         public string Emp_nombre { get; set; }
         [DataType(DataType.Text)]
         public string Emp_ape_paterno { get; set; }
