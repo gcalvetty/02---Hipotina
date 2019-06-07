@@ -4,33 +4,112 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - My ASP.NET Application</title>
-    @Styles.Render("~/Content/css")
-    @Styles.Render("~/Content/bootstrap")
-    @Scripts.Render("~/bundles/modernizr")
+   
+
+    <!-- Bootstrap -->
+    <link href="Content/vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="Content/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="Content/vendor/nprogress/nprogress.css" rel="stylesheet">
+    <!-- bootstrap-progressbar -->
+    <link href="Content/vendor/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <!-- bootstrap-daterangepicker -->
+    <link href="Content/vendor/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="Content/build/css/custom.min.css" rel="stylesheet">
+
 
 </head>
-<body>
-    @Html.Partial("~/Views/Shared/menu/menu_hipotina.cshtml")    
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - Desarrollado por GECN-Dev</p>
-        </footer>
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+            
+            @Html.Partial("~/Views/Shared/menu/menu_hipotina.cshtml")
+            
+            <!-- top navigation -->
+            <div class="top_nav">
+                <div class="nav_menu">
+                    <nav>
+                        <div class="nav toggle">
+                            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                        </div>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="">                                
+                                <ul class="dropdown-menu dropdown-usermenu pull-right">
+                                    <li><a href="javascript:;"> Profile</a></li>
+                                    <li>
+                                        <a href="javascript:;">
+                                            <span class="badge bg-red pull-right">50%</span>
+                                            <span>Settings</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="javascript:;">Help</a></li>
+                                    <li>@Html.Partial("_LoginPartial")</li>
+                                </ul>
+                            </li>                           
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- /top navigation -->
+            <!-- page content -->
+            <div class="right_col" role="main">
+                @RenderBody()
+            </div>
+            <!-- /page content -->
+            <!-- footer content -->
+            <footer>
+                <div class="pull-right">
+                    GECN-Dev <a href="#"> HIPOTINA -2k19</a>
+                </div>
+                <div class="clearfix"></div>
+            </footer>
+            <!-- /footer content -->
+        </div>
     </div>
-    @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
 
-    @RenderSection("scripts", required: false)
+    <!-- jQuery -->
+    <script src="Content/vendor/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="Content/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- FastClick -->
+    <script src="Content/vendor/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="Content/vendor/nprogress/nprogress.js"></script>
+    <!-- Chart.js -->
+    <script src="Content/vendor/Chart.js/dist/Chart.min.js"></script>
+    <!-- jQuery Sparklines -->
+    <script src="Content/vendor/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+    <!-- morris.js -->
+    <script src="Content/vendor/raphael/raphael.min.js"></script>
+    <script src="Content/vendor/morris.js/morris.min.js"></script>
+    <!-- gauge.js -->
+    <script src="Content/vendor/gauge.js/dist/gauge.min.js"></script>
+    <!-- bootstrap-progressbar -->
+    <script src="Content/vendor/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <!-- Skycons -->
+    <script src="Content/vendor/skycons/skycons.js"></script>
+    <!-- Flot -->
+    <script src="Content/vendor/Flot/jquery.flot.js"></script>
+    <script src="Content/vendor/Flot/jquery.flot.pie.js"></script>
+    <script src="Content/vendor/Flot/jquery.flot.time.js"></script>
+    <script src="Content/vendor/Flot/jquery.flot.stack.js"></script>
+    <script src="Content/vendor/Flot/jquery.flot.resize.js"></script>
+    <!-- Flot plugins -->
+    <script src="Content/vendor/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+    <script src="Content/vendor/flot-spline/js/jquery.flot.spline.min.js"></script>
+    <script src="Content/vendor/flot.curvedlines/curvedLines.js"></script>
+    <!-- DateJS -->
+    <script src="Content/vendor/DateJS/build/date.js"></script>
+    <!-- bootstrap-daterangepicker -->
+    <script src="Content/vendor/moment/min/moment.min.js"></script>
+    <script src="Content/vendor/bootstrap-daterangepicker/daterangepicker.js"></script>
 
-
-
-
-
-
-
-
-
-
+    <!-- Custom Theme Scripts -->
+    <script src="Content/build/js/custom.min.js"></script>
+    
 </body>
 </html>

@@ -243,6 +243,7 @@ E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\bin\Microsoft.O
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.dll
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.pdb
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hiponita\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
+E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\ApplicationInsights.config
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\csc.exe
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -324,4 +325,3 @@ E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.O
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.dll
 E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.pdb
-E:\01 - GECN-Dev\3 - Proyectos\02 - Hipotina\Hipotina.ERP.WebMVC\obj\Debug\Hipotina.ERP.WebMVC.csprojResolveAssemblyReference.cache
