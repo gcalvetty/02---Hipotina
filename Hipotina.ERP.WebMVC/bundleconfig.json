@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "Content/vendor/bootstrap/dist/css/bootstrap-theme.min.css",
+    "inputFiles": [
+      "Content/vendor/bootstrap/dist/css/bootstrap-theme.css"
+    ]
+  }
+]

@@ -6,6 +6,8 @@ namespace Hipotina_GECN
     public class BundleConfig
     {
         // For more information on bundling, visit http://go.microsoft.com/fwlink/?LinkId=301862
+        
+
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
@@ -22,10 +24,22 @@ namespace Hipotina_GECN
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
                       "~/Scripts/respond.js"));
-
+            
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",                      
+                      "~/Content/vendors/bootstrap/dist/css/bootstrap.min.css",                      
                       "~/Content/site.css"));
-        }
+
+            /* --- Boostrap GECN - Gentelella --- */
+            bundles.Add(new ScriptBundle("~/bundles/bootstrapGECNcss").Include(
+                      "~/Content/vendors/bootstrap/dist/css/bootstrap.min.css"));
+
+            bundles.Add(new ScriptBundle("~/bundles/bootstrapGECNjs").Include(                      
+                      "~/Content/vendors/bootstrap/dist/js/bootstrap.min.js"));
+
+
+            BundleTable.EnableOptimizations = true;
+        
+
+    }
     }
 }
