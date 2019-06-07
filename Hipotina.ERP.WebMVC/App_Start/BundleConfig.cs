@@ -31,13 +31,18 @@ namespace Hipotina_GECN
 
             /* --- Boostrap GECN - Gentelella --- */
             bundles.Add(new ScriptBundle("~/bundles/bootstrapGECNcss").Include(
-                      "~/Content/vendors/bootstrap/dist/css/bootstrap.min.css"));
+                      "~/Content/vendors/bootstrap/dist/css/bootstrap.min.css",
+                      "~/Content//vendors/font-awesome/css/font-awesome.min.css",
+                      "~/Content/vendors/nprogress/nprogress.css",
+                      "~/Content/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css",
+                      "~/Content/build/css/custom.min.css"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrapGECNjs").Include(                      
                       "~/Content/vendors/bootstrap/dist/js/bootstrap.min.js"));
+            
 
 
-            BundleTable.EnableOptimizations = true;
+                              BundleTable.EnableOptimizations = true;
         
 
     }
