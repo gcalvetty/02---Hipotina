@@ -19,8 +19,10 @@ namespace Hipotina.ERP.WebMVC.Areas.RRHH.Models
         public int Empd_ID { get; set; }
 
         [DataType(DataType.Date)]
-        public DateTime Empd_fecNac { get; set; }        
+        public DateTime Empd_fecNac { get; set; }
+        [DataType(DataType.Text)]
         public string Empd_ci { get; set; }
+        
         public estadocivil? Empd_estadocivil { get; set; }               
         public sexo? Empd_sexo { get; set; }
 
