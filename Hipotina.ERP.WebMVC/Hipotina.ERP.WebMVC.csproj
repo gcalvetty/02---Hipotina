@@ -37,6 +37,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <CodeAnalysisRuleSet>GlobalizationRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -88,6 +89,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualC.STLCLR" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Entity" />
@@ -220,6 +222,9 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Personal.cs" />
     <Compile Include="Models\PersonalDatos.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -228,6 +233,15 @@
     <Content Include="App_Data\DBHipotina1_log.ldf">
       <DependentUpon>DBHipotina1.mdf</DependentUpon>
     </Content>
+    <Content Include="bin\roslyn\csc.exe" />
+    <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <Content Include="bin\roslyn\System.Collections.Immutable.dll" />
+    <Content Include="bin\roslyn\System.Reflection.Metadata.dll" />
+    <Content Include="bin\roslyn\vbc.exe" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\build\css\custom.css" />
@@ -1398,6 +1412,13 @@
     <Content Include="Content\vendor\DateJS\src\i18n\zh-SG.js" />
     <Content Include="Content\vendor\DateJS\src\i18n\zh-TW.js" />
     <Content Include="Content\vendor\DateJS\src\i18n\zu-ZA.js" />
+    <Content Include="Content\vendor\devbridge-autocomplete\dist\jquery.autocomplete.js" />
+    <Content Include="Content\vendor\devbridge-autocomplete\dist\jquery.autocomplete.min.js" />
+    <Content Include="Content\vendor\devbridge-autocomplete\dist\license.txt" />
+    <Content Include="Content\vendor\devbridge-autocomplete\gruntfile.js" />
+    <Content Include="Content\vendor\devbridge-autocomplete\index.htm" />
+    <Content Include="Content\vendor\devbridge-autocomplete\license.txt" />
+    <Content Include="Content\vendor\devbridge-autocomplete\src\jquery.autocomplete.js" />
     <Content Include="Content\vendor\dropzone\dist\basic.css" />
     <Content Include="Content\vendor\dropzone\dist\dropzone-amd-module.js" />
     <Content Include="Content\vendor\dropzone\dist\dropzone.css" />
@@ -4018,6 +4039,10 @@
     <Content Include="Content\vendor\bootstrap\package-lock.json" />
     <Content Include="Content\vendor\bootstrap\package.json" />
     <Content Include="Content\vendor\bootstrap\README.md" />
+    <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <Content Include="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
+    <Content Include="Areas\RRHH\Views\Shared\_Layout - Copy.cshtml" />
     <None Include="bundleconfig.json" />
     <Content Include="Content\vendor\cropper\.bower.json" />
     <Content Include="Content\vendor\cropper\bower.json" />
@@ -4622,6 +4647,11 @@
     <Content Include="Content\vendor\jquery\external\sizzle\dist\sizzle.min.map" />
     <Content Include="Content\vendor\jquery\README.md" />
     <Content Include="Content\vendor\jquery\src\.jshintrc" />
+    <Content Include="Content\vendor\devbridge-autocomplete\.bower.json" />
+    <Content Include="Content\vendor\devbridge-autocomplete\bower.json" />
+    <Content Include="Content\vendor\devbridge-autocomplete\devbridge-autocomplete.jquery.json" />
+    <Content Include="Content\vendor\devbridge-autocomplete\package.json" />
+    <Content Include="Content\vendor\devbridge-autocomplete\readme.md" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -4675,6 +4705,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\RecursosHumanos\Models\" />
+    <Folder Include="bin\Debug\" />
     <Folder Include="Content\images\" />
   </ItemGroup>
   <ItemGroup>
@@ -4689,6 +4720,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Content\vendor\devbridge-autocomplete\src\jquery.autocomplete.d.ts" />
     <TypeScriptCompile Include="Content\vendor\moment\moment.d.ts" />
   </ItemGroup>
   <ItemGroup>
